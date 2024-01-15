@@ -1,7 +1,7 @@
 ---
 name: User Story
 about: User Story template
-title: User Story
+title: 'User Story: '
 labels: ''
 assignees: ''
 
@@ -11,7 +11,7 @@ assignees: ''
 
 
 ## USER STORY: ##
-
+As a **  ** I want to be able to **  ** so that I can **  **
 
 ## TASKS: ##
 - 
